@@ -1,9 +1,7 @@
-package com.gradle.tutorial;
+package com.gradle.comp2522;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 public class LabOneTest {
     @Test
